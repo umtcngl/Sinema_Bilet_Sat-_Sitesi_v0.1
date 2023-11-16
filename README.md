@@ -1,4 +1,4 @@
-# Sinema Bileti Satın Alma Sitesi
+# Sinema Bileti Satın Alma Sitesi V0.1
 ## 2. Yıl 1. Dönem İnternet Programcılığı Projesi
 
 ### Anasayfa
