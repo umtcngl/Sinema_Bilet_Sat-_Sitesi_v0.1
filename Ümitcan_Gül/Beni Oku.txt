@@ -1,0 +1,17 @@
+'sinema_bilet' klasörünü "C:\xampp\mysql\data" nın içine atın.
+
+'Website' yi de	"C:\xampp\htdocs" un içine atın.
+
+
+eğer bir sorun çıkarsa aynı veritabanını oluşturmanız için sql kodları:
+
+
+CREATE DATABASE IF NOT EXISTS sinema_bilet;
+
+USE sinema_bilet;
+
+CREATE TABLE IF NOT EXISTS users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    kullaniciadi VARCHAR(20) NOT NULL,
+    sifre VARCHAR(20) NOT NULL
+);
