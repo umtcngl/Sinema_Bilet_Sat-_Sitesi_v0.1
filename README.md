@@ -1,6 +1,5 @@
-# Sinema_Bilet_Satis_Sitesi_v0.1
-## Sinema Bileti Satın Alma Sitesi
-### 2. Yıl 1. Dönem İnternet Programcılığı Projesi
+# Sinema Bileti Satın Alma Sitesi
+## 2. Yıl 1. Dönem İnternet Programcılığı Projesi
 
 ### Anasayfa
 ![1](https://github.com/umtcngl/Sinema_Bilet_Satis_Sitesi_v0.1/blob/main/%C3%9Cmitcan_G%C3%BCl/readmeimg/anasayfa.PNG)
