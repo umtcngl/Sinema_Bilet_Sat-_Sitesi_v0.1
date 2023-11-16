@@ -15,3 +15,6 @@
 
 ### Kaydol
 ![5](https://github.com/umtcngl/Sinema_Bilet_Satis_Sitesi_v0.1/blob/main/%C3%9Cmitcan_G%C3%BCl/readmeimg/kaydol.PNG)
+
+### Kullanıcı
+![6](https://github.com/umtcngl/Sinema_Bilet_Satis_Sitesi_v0.1/blob/main/%C3%9Cmitcan_G%C3%BCl/readmeimg/kullanici.PNG)
